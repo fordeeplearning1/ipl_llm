@@ -1,4 +1,4 @@
-# IPL match predictions using LLMs #
+# IPL match prediction scraping using LLMs #
 
 Install the required packages
 ```pip install -r requirements.txt```
